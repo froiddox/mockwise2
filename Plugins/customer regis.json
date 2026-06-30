@@ -1,0 +1,80 @@
+[
+  {
+    "field": "Name",
+    "corX": 375,
+    "corY": 18,
+    "pause": 1
+  },
+  {
+    "field": "Surname",
+    "corX": 1050,
+    "corY": 18,
+    "pause": 1
+  },
+  {
+    "field": "Email",
+    "corX": 375,
+    "corY": 90,
+    "pause": 1
+  },
+  {
+    "field": "Gender",
+    "corX": 380,
+    "corY": 145,
+    "pause": 1
+  },
+  {
+    "field": "Mobile number",
+    "corX": 375,
+    "corY": 200,
+    "pause": 1
+  },
+  {
+    "field": "Date of Birth",
+    "corX": 375,
+    "corY": 278,
+    "pause": 1
+  },
+  {
+    "field": "Insert1",
+    "corX": 375,
+    "corY": 278,
+    "pause": 1
+  },
+  {
+    "field": "Subjects",
+    "corX": 375,
+    "corY": 345,
+    "pause": 1
+  },
+  {
+    "field": "Insert2",
+    "corX": 375,
+    "corY": 345,
+    "pause": 1
+  },
+  {
+    "field": "Hobbies",
+    "corX": 516,
+    "corY": 405,
+    "pause": 1
+  },
+  {
+    "field": "Current Address",
+    "corX": 375,
+    "corY": 550,
+    "pause": 1
+  },
+  {
+    "field": "State and City",
+    "corX": 375,
+    "corY": 750,
+    "pause": 1
+  },
+  {
+    "field": "Submit",
+    "corX": 1150,
+    "corY": 850,
+    "pause": 1
+  }
+]
