@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Test / build artefacts
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Plugin screenshots — add your own .png and .json files locally
+# (they are not committed so each user keeps their own screen definitions)
+Plugins/*.png
+Plugins/*.json
